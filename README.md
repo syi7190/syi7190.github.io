@@ -1,6 +1,6 @@
 # Sung Yi
 
-#### Hello and Welcome to my Github website! My name is Sung Yi and I am currently attending John Jay College as a Computer Science and Information Security Major.
+#### Hello and Welcome to my Github website! My name is Sung Yi and I graduated from John Jay College as a Computer Science and Information Security Major.
 
 >Check out my [Github](https://github.com/syi7190)
 
